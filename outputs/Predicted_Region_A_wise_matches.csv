@@ -1,0 +1,6 @@
+,candidate_id,wise_flux_w1,wise_flux_w2,spectral_lines
+0,Predicted_Region_A_TNO_1,13.012454550441133,10.715742552724365,"[{'molecule': 'H2O_ice', 'wavelength': 3.0}, {'molecule': 'CH4_ice', 'wavelength': 7.7}, {'molecule': 'tholins', 'wavelength': '5.0-8.0'}]"
+1,Predicted_Region_A_TNO_2,12.295465103555186,9.082184062084576,"[{'molecule': 'H2O_ice', 'wavelength': 3.0}, {'molecule': 'CH4_ice', 'wavelength': 7.7}, {'molecule': 'tholins', 'wavelength': '5.0-8.0'}]"
+2,Predicted_Region_A_TNO_3,11.928894497363233,8.287718854700987,"[{'molecule': 'H2O_ice', 'wavelength': 3.0}, {'molecule': 'CH4_ice', 'wavelength': 7.7}, {'molecule': 'tholins', 'wavelength': '5.0-8.0'}]"
+3,Predicted_Region_A_TNO_4,14.767798547608134,9.907405629135155,"[{'molecule': 'H2O_ice', 'wavelength': 3.0}, {'molecule': 'CH4_ice', 'wavelength': 7.7}, {'molecule': 'tholins', 'wavelength': '5.0-8.0'}]"
+4,Predicted_Region_A_TNO_5,11.246155645266109,8.65871731543238,"[{'molecule': 'H2O_ice', 'wavelength': 3.0}, {'molecule': 'CH4_ice', 'wavelength': 7.7}, {'molecule': 'tholins', 'wavelength': '5.0-8.0'}]"
